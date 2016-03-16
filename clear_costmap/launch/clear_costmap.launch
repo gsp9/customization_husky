@@ -1,0 +1,3 @@
+<launch>
+<node pkg="clear_costmap" type="clear_costmap.sh"/>
+</launch>
